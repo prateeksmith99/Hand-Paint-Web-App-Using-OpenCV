@@ -1,0 +1,9 @@
+mediapipe==0.8.6
+numpy==1.21.0
+Pillow==8.2.0
+streamlit==0.86.0
+opencv-contrib-python==4.5.2.54
+opencv-python==4.5.2.54
+opencv-python-headless
+streamlit-webrtc==0.26.0
+
